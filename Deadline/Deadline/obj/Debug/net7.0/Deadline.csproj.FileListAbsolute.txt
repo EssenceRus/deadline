@@ -1,0 +1,15 @@
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\bin\Debug\net7.0\Deadline.exe
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\bin\Debug\net7.0\Deadline.deps.json
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\bin\Debug\net7.0\Deadline.runtimeconfig.json
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\bin\Debug\net7.0\Deadline.dll
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\bin\Debug\net7.0\Deadline.pdb
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.csproj.AssemblyReference.cache
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.AssemblyInfoInputs.cache
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.AssemblyInfo.cs
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.csproj.CoreCompileInputs.cache
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.dll
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\refint\Deadline.dll
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.pdb
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\Deadline.genruntimeconfig.cache
+C:\Users\st310-12\Documents\bezmenov\Deadline\Deadline\obj\Debug\net7.0\ref\Deadline.dll
